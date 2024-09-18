@@ -1,4 +1,4 @@
-package com.henrique.api_rest.controller.exception;
+ package com.henrique.api_rest.controller.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
